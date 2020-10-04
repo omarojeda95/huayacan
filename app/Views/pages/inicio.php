@@ -1,4 +1,7 @@
-<?= view('includes/head') ?>
+<?php
+view('includes/head');
+view('includes/fb');
+?>
 <!-- pageWrapper -->
 <div id="pageWrapper">
     <!-- pageHeader -->
