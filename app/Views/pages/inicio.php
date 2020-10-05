@@ -45,7 +45,7 @@
                 <div class="row mb-3 mb-sm-5 mb-lg-7 mb-xl-9">
                     <div class="col-12 col-lg-10 offset-lg-1 text-center">
                         <p>Somos una empresa dedicada a la fabricación metálica en la ciudad de Lima - Perú. Somos varios profesionales del metal y esto se refleja en nuestros trabajos.</p>
-                        <p>Nuestros ahumadores de acero se diferencian por su robustez y están pensados para utilizarlos con fuego de leña pero por supuesto también podrá utilizar carbón vegetal. Todas las partes del ahumador están unidas por fuertes soldaduras y no empleamos ningún tipo de tornillería. Los ahumadores black toro se envían listos para ser utilizados y por supuesto no requieren montaje. </p>
+                        <p>Nuestros ahumadores de acero se diferencian por su robustez y están pensados para utilizarlos con fuego de leña pero por supuesto también podrá utilizar carbón vegetal. Todas las partes del ahumador están unidas por fuertes soldaduras y no empleamos ningún tipo de tornillería. Los ahumadores Huayacan se envían listos para ser utilizados y por supuesto no requieren montaje. </p>
                         <p>Todos nuestros ahumadores de acero son personalizables para que se ajusten al uso que usted le va a dar. Usted podrá modificar el tipo de ruedas, poner contrapesos, bandejas exteriores, personalizar su quemador con distintas funciones, etc.</p>
                     </div>
                 </div>
