@@ -28,7 +28,7 @@
             </div>
         </section>
         <!-- abUsSec -->
-        <section id="About" class="abUsSec py-12 py-md-15 py-xl-19">
+        <section id="About" class="abUsSec pt-12 pt-md-15 pt-xl-19">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
@@ -51,23 +51,7 @@
                 </div>
             </div>
         </section>
-        <!-- ourSec -->
-        <!-- <aside id="Portfolio" class="customerService position-relative overlay d-flex">
-            <div class="alignCenter w-100 d-flex align-items-center">
-                <div class="container py-12">
-                    <div class="row">
-                        <div class="col-12 col-lg-8 offset-lg-2">
-                            <blockquote class="cstmrHolder text-center text-white mx-xl-n6 fontPoppins mb-0">
-                                <q class="d-block text-uppercase fwSemibold mb-1">In Our Works, We Take Attention to Every Details to Deliver the Best Service to Our Customers</q>
-                                <cite class="author fontRoboto"><a href="javascript:void(0);">- Team Leader @PrexTheme</a></cite>
-                            </blockquote>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <span class="bgImg bgCover position-absolute" style="background-image: url(images/img02.jpg);"></span>
-        </aside>
-        <section class="pt-12 pt-md-15 pt-xl-19">
+        <section id="Product" class="pt-12 pt-md-12 pt-xl-19">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
@@ -82,103 +66,87 @@
                     <div class="col-12">
                         <ul class="filterNav filter-button-group list-unstyled fwSemibold fontPoppins text-uppercase mb-5 mb-xl-7 d-flex flex-wrap justify-content-center">
                             <li class="nav-item mb-2"><a class="filterBtn is-checked" data-filter="*" href="javascript:void(0);">todos</a></li>
-                            <li class="nav-item mb-2"><a class="filterBtn" data-filter=".transition" href="javascript:void(0);">ahumadores</a></li>
-                            <li class="nav-item mb-2"><a class="filterBtn" data-filter=".design" href="javascript:void(0);">tablas</a></li>
+                            <li class="nav-item mb-2"><a class="filterBtn" data-filter=".smoker" href="javascript:void(0);">ahumadores</a></li>
+                            <li class="nav-item mb-2"><a class="filterBtn" data-filter=".table" href="javascript:void(0);">tablas</a></li>
+                            <li class="nav-item mb-2"><a class="filterBtn" data-filter=".termometro" href="javascript:void(0);">termometro</a></li>
+                            <li class="nav-item mb-2"><a class="filterBtn" data-filter=".otros" href="javascript:void(0);">adicionales</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
             <div class="gridFilterWrap d-flex flex-wrap">
-                <div class="element-item overflow-hidden transition web" data-category="transition web">
+                <div class="element-item overflow-hidden smoker">
                     <div class="d-block imgHolder w-100">
-                        <a href="images/img09.jpg" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/img09.jpg" class="img-fluid" alt="image description"></a>
+                        <a data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/products/ahumador-tradicional.jpg" class="img-fluid" alt="image description"></a>
                         <div class="overbgBTxt position-absolute">
                             <h3>
-                                <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">Mockup Can Design</a></strong>
-                                <strong class="fontRoboto px-3 d-inline-block designType text-white">Design - Branding</strong>
+                                <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">AHUMADOR TRADICIONAL 1.50</a></strong>
                             </h3>
                         </div>
                     </div>
                 </div>
-                <div class="element-item overflow-hidden overlay">
+                <div class="element-item overflow-hidden smoker">
                     <div class="d-block imgHolder w-100">
-                        <img src="<?= base_url() ?>/public/assets/images/img10.jpg" class="img-fluid" alt="image description">
-                        <div class="overTxt position-absolute">
-                            <h3>
-                                <strong class="fwSemibold d-block h4 d-block mb-2"><a href="images/img10.jpg" data-fancybox="gallery" data-caption="Mockup Can Design">Mockup Can Design</a></strong>
-                                <strong class="fontRoboto d-block designType text-white">Design - Branding</strong>
-                            </h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="element-item overflow-hidden">
-                    <div class="d-block imgHolder w-100">
-                        <a href="images/img11.jpg" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/img11.jpg" class="img-fluid" alt="image description"></a>
+                        <a data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/products/ahumador-reverse.jpg" class="img-fluid" alt="image description"></a>
                         <div class="overbgBTxt position-absolute">
                             <h3>
-                                <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">Mockup Can Design</a></strong>
-                                <strong class="fontRoboto px-3 d-inline-block designType text-white">Design - Branding</strong>
+                                <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">AHUMADOR REVERSE 1.50</a></strong>
                             </h3>
                         </div>
                     </div>
                 </div>
-                <div class="element-item overflow-hidden transition overlay design photo" data-category="transition design photo">
+                <div class="element-item overflow-hidden smoker">
                     <div class="d-block imgHolder w-100">
-                        <img src="<?= base_url() ?>/public/assets/images/img12.jpg" class="img-fluid" alt="image description">
-                        <div class="overTxt position-absolute">
-                            <h3>
-                                <strong class="fwSemibold d-block h4 d-block mb-2"><a href="images/img12.jpg" data-fancybox="gallery" data-caption="Mockup Can Design">Mockup Can Design</a></strong>
-                                <strong class="fontRoboto d-block designType text-white">Design - Branding</strong>
-                            </h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="element-item overflow-hidden transition web" data-category="transition web">
-                    <div class="d-block imgHolder w-100">
-                        <a href="images/img13.jpg" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/img13.jpg" class="img-fluid" alt="image description"></a>
+                        <a data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/products/ahumador-tradicional.jpg" class="img-fluid" alt="image description"></a>
                         <div class="overbgBTxt position-absolute">
                             <h3>
-                                <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Mockup Can Design</a></strong>
-                                <strong class="fontRoboto px-3 d-inline-block designType text-white">Design - Branding</strong>
+                                <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">AHUMADOR TRADICIONAL 0.75</a></strong>
                             </h3>
                         </div>
                     </div>
                 </div>
-                <div class="element-item overflow-hidden transition overlay design" data-category="transition design">
+                <div class="element-item overflow-hidden smoker">
                     <div class="d-block imgHolder w-100">
-                        <img src="<?= base_url() ?>/public/assets/images/img14.jpg" class="img-fluid" alt="image description">
-                        <div class="overTxt position-absolute">
-                            <h3>
-                                <strong class="fwSemibold d-block h4 d-block mb-2"><a href="images/img14.jpg" data-fancybox="gallery" data-caption="Mockup Can Design">Mockup Can Design</a></strong>
-                                <strong class="fontRoboto d-block designType text-white">Design - Branding</strong>
-                            </h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="element-item overflow-hidden transition photo" data-category="transition photo">
-                    <div class="d-block imgHolder w-100">
-                        <a href="images/img15.jpg" data-fancybox="gallery" data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/img15.jpg" class="img-fluid" alt="image description"></a>
+                        <a data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/products/ahumador-tradicional-2.jpg" class="img-fluid" alt="image description"></a>
                         <div class="overbgBTxt position-absolute">
                             <h3>
-                                <strong class="fwSemibold px-3 d-inline-block h4 d-block mb-0"><a href="javascript:void(0);">Mockup Can Design</a></strong>
-                                <strong class="fontRoboto px-3 d-inline-block designType"> text-whiteDesign - Branding</strong>
+                                <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">AHUMADOR REVERSE 0.75</a></strong>
                             </h3>
                         </div>
                     </div>
                 </div>
-                <div class="element-item overflow-hidden overlay app web" data-category="app web">
+                <div class="element-item overflow-hidden table" data-category="table">
                     <div class="d-block imgHolder w-100">
-                        <img src="<?= base_url() ?>/public/assets/images/img16.jpg" class="img-fluid" alt="image description">
-                        <div class="overTxt position-absolute">
+                        <a href="<?= base_url('/tabla-huayacan') ?>" data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/products/tabla.jpeg" class="img-fluid" alt="image description"></a>
+                        <div class="overbgBTxt position-absolute">
                             <h3>
-                                <strong class="fwSemibold d-block h4 d-block mb-2"><a href="images/img16.jpg" data-fancybox="gallery" data-caption="Mockup Can Design">Mockup Can Design</a></strong>
-                                <strong class="fontRoboto d-block designType text-white">Design - Branding</strong>
+                                <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">TABLA DE PICAR</a></strong>
+                            </h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="element-item overflow-hidden termometro">
+                    <div class="d-block imgHolder w-100">
+                        <a data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/products/termometro.jpg" class="img-fluid" alt="image description"></a>
+                        <div class="overbgBTxt position-absolute">
+                            <h3>
+                                <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">TERMOMETRO</a></strong>
+                            </h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="element-item overflow-hidden otros">
+                    <div class="d-block imgHolder w-100">
+                        <a data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/products/mas.png" class="img-fluid" alt="image description"></a>
+                        <div class="overbgBTxt position-absolute">
+                            <h3>
+                                <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">ADICIONALES</a></strong>
                             </h3>
                         </div>
                     </div>
                 </div>
             </div>
-        </section> -->
+        </section>
         <!-- Team -->
         <!-- <section id="Team" class="py-12 py-md-15 py-xl-19">
             <div class="container">

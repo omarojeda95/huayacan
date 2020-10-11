@@ -1,8 +1,8 @@
-<header id="pageHeader" class="position-absolute py-2 py-lg-2">
+<header id="pageHeader" class="position-absolute py-2 py-lg-2" style="background-color: #4c4c4c;">
     <div class="d-flex align-items-center mx-3 mx-md-6">
         <!-- mainLogo -->
         <div class="logo mt-n1">
-            <a href="index.html">
+            <a href="<?= base_url('/') ?>">
                 <img src="<?= base_url() ?>/public/assets/images/logo/logo-BL.png" alt="Huayacan" width="120px">
             </a>
         </div>
@@ -16,21 +16,6 @@
                 <div class="collapse navbar-collapse navCollapse" id="navBarOpener">
                     <!-- navbar-nav -->
                     <ul class="navbar-nav mr-auto text-uppercase">
-                        <li class="nav-item">
-                            <a class="nav-link" href="#Home">Inicio <span class="sr-only">(current)</span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#About">Nosotros</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#Product">Productos</a>
-                        </li>
-                        <!-- <li class="nav-item">
-                            <a class="nav-link" href="#Team">team</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#Testimonial">Testimonios</a>
-                        </li> -->
                         <li class="nav-item">
                             <a class="nav-link" href="#Contact">Contacto</a>
                         </li>

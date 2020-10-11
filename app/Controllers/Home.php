@@ -8,4 +8,9 @@ class Home extends BaseController
 	{
 		return view('pages/inicio');
 	}
+
+	public function table()
+	{
+		return view('pages/tabla');
+	}
 }
