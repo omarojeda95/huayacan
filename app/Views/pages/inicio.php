@@ -63,33 +63,7 @@
                             <span class="bdrBtmImg d-block position-relative mx-auto"></span>
                         </header>
                     </div>
-                    <div class="col-md-6">
-                        <div class="text-center">
-                            <h3 class="text-uppercase d-block">AHUMADOR REVERSE 1.50 X 0.50 X 1.70 MTS</h3>
-                        </div>
-                        <ul>
-                            <li>Modelo HU20</li>
-                            <li>Peso: 120 kg</li>
-                            <li>Dimensiones barril principal: 50x100cm</li>
-                            <li>Dimensiones quemador: 50x50cm</li>
-                            <li>Largo x ancho x alto: 150x50x170cm </li>
-                            <li>Pintura Anticalorica resistente hasta 300°C</li>
-                            <li>Accesorios incluidos:</li>
-                            <li>2 parrillas (extraíbles) para cocinado de alimentos, para un aprox de 200 a 250 personas, dependiendo del corte que uses.</li>
-                            <li>acceso para sondas</li>
-                            <li>Chimenea de 50 cm</li>
-                            <li>Baffle plate</li>
-                            <li>2 termómetro en grados celsius.</li>
-                            <li>Bandeja para líquidos y grasas.</li>
-                            <li>4 ruedas movibles de nylon con freno. </li>
-                            <li>Parrilla de acero corrugado de 12mm sobre la que realizar el fuego.</li>
-                            <li>Tiempo de vida útil, resistente al tiempo.</li>
-                        </ul>
-                    </div>
-                    <div class="col-md-6 text-center">
-                        <img src="<?= base_url() ?>/public/assets/images/products/ahumador.jpg?>" alt="" width="50%">
-                    </div>
-                    <div class="pt-5 row">
+                    <div class="row pt-5 col-md-12">
                         <div class="col-md-6">
                             <div class="text-center">
                                 <h3 class="text-uppercase d-block">AHUMADOR REVERSE 1.50 X 0.50 X 1.70 MTS</h3>
@@ -115,6 +89,139 @@
                         </div>
                         <div class="col-md-6 text-center">
                             <img src="<?= base_url() ?>/public/assets/images/products/ahumador.jpg?>" alt="" width="50%">
+                        </div>
+                    </div>
+                    <div class="pt-5 row col-md-12">
+                        <div class="col-md-6">
+                            <div class="text-center">
+                                <h3 class="text-uppercase d-block">AHUMADOR TRADICIONAL 1.50 X 50 X 1.70 MTS</h3>
+                            </div>
+                            <ul>
+                                <li>Modelo HU21</li>
+                                <li>Peso: 120 kg</li>
+                                <li>Dimensiones barril principal: 50x100cm</li>
+                                <li>Dimensiones quemador: 50x50cm</li>
+                                <li>Largo x ancho x alto: 150x50x170cm</li>
+                                <li>Pintura Anticalorica resistente hasta 300°C</li>
+                                <li>Accesorios incluidos:</li>
+                                <li>2 parrillas (extraíbles) para cocinado de alimentos, para un aprox de 200 a 250 personas, dependiendo del corte que uses.</li>
+                                <li>acceso para sondas</li>
+                                <li>Chimenea de 50 cm</li>
+                                <li>2 termómetro en grados celsius.</li>
+                                <li>Bandeja para líquidos y grasas.</li>
+                                <li>4 ruedas movibles de nylon con freno. </li>
+                                <li>Parrilla de acero corrugado de 12mm sobre la que realizar el fuego.</li>
+                                <li>Tiempo de vida útil, resistente al tiempo.</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 text-center">
+                            <img src="<?= base_url() ?>/public/assets/images/products/ahumador.jpg?>" alt="" width="50%">
+                        </div>
+                    </div>
+                    <div class="pt-5 row col-md-12">
+                        <div class="col-md-6">
+                            <div class="text-center">
+                                <h3 class="text-uppercase d-block">AHUMADOR REVERSE 0.75 X 0.25 X 1.70 MTS</h3>
+                            </div>
+                            <ul>
+                                <li>Modelo HU22</li>
+                                <li>Peso: 80 kg</li>
+                                <li>Dimensiones barril principal: 50x50cm</li>
+                                <li>Dimensiones quemador: 50x35cm</li>
+                                <li>Largo x ancho x alto: 85x35x170cm</li>
+                                <li>Pintura Anticalorica resistente hasta 300°C</li>
+                                <li>Accesorios incluidos:</li>
+                                <li>2 parrillas (extraíbles) para cocinado de alimentos, para un aprox de 50 a 80 personas, dependiendo del corte que uses.</li>
+                                <li>acceso para sondas</li>
+                                <li>Chimenea de 50 cm</li>
+                                <li>Baffle plate</li>
+                                <li>2 termómetro en grados celsius.</li>
+                                <li>Drenaje para líquidos y grasas standar con asa para soporte de cubo.</li>
+                                <li>4 ruedas movibles de nylon con freno. </li>
+                                <li>Parrilla de acero corrugado de 12mm sobre la que realizar el fuego.</li>
+                                <li>Tiempo de vida útil, resistente al tiempo.</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 text-center">
+                            <img src="<?= base_url() ?>/public/assets/images/products/ahumador.jpg?>" alt="" width="50%">
+                        </div>
+                    </div>
+                    <div class="pt-5 row col-md-12">
+                        <div class="col-md-6">
+                            <div class="text-center">
+                                <h3 class="text-uppercase d-block">AHUMADOR TRADICIONAL 0.75 X 0.25 X 1.70 MTS</h3>
+                            </div>
+                            <ul>
+                                <li>Modelo HU23</li>
+                                <li>Peso: 80 kg</li>
+                                <li>Dimensiones barril principal: 50x50cm</li>
+                                <li>Dimensiones quemador: 50x35cm</li>
+                                <li>Largo x ancho x alto: 85x35x170cm</li>
+                                <li>Pintura Anticalorica resistente hasta 300°C</li>
+                                <li>Accesorios incluidos:</li>
+                                <li>2 parrillas (extraíbles) para cocinado de alimentos, para un aprox de 50 a 80 personas, dependiendo del corte que uses.</li>
+                                <li>acceso para sondas</li>
+                                <li>Chimenea de 50 cm</li>
+                                <li>2 termómetro en grados celsius.</li>
+                                <li>Drenaje para líquidos y grasas standar con asa para soporte de cubo.</li>
+                                <li>4 ruedas movibles de nylon con freno. </li>
+                                <li>Parrilla de acero corrugado de 12mm sobre la que realizar el fuego.</li>
+                                <li>Tiempo de vida útil, resistente al tiempo.</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 text-center">
+                            <img src="<?= base_url() ?>/public/assets/images/products/ahumador.jpg?>" alt="" width="50%">
+                        </div>
+                    </div>
+                    <div class="pt-5 row col-md-12">
+                        <div class="col-md-6">
+                            <div class="text-center">
+                                <h3 class="text-uppercase d-block">TERMOMETRO DIAL +10°C / + 400°C </h3>
+                            </div>
+                            <ul>
+                                <li>Código Interno: 30104. </li>
+                                <li>Marca: BONAJAY.</li>
+                                <li>Modelo: BJ-8K-1. </li>
+                                <li>Tipo: Dial. </li>
+                                <li>Rango de Temperatura: 10-400 °C, 50-800°F. </li>
+                                <li>Material: Acero Inoxidable. </li>
+                                <li>Medidas: 60mm Diametro x 80mm Largo. Sonda: 6x73mm. Rosca: M10x45mm. </li>
+                                <li>Adecuado para: Horno, Barbacoa, Parrilla.</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 text-center">
+                            <img src="<?= base_url() ?>/public/assets/images/products/termometro.jpg" alt="" width="50%">
+                        </div>
+                    </div>
+                    <div class="pt-5 row col-md-12">
+                        <div class="col-md-6">
+                            <div class="text-center">
+                                <h3 class="text-uppercase d-block">TABLA DE PICAR</h3>
+                            </div>
+                            <ul>
+                                <li>Marca: HUAYACAN</li>
+                                <li>Medidas: 50 x 33 x 2 cm </li>
+                                <li>Madera: Nogal</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 text-center">
+                            <img src="<?= base_url() ?>/public/assets/images/products/tablaN.jpeg" alt="" width="50%">
+                        </div>
+                    </div>
+                    <div class="pt-5 row col-md-12">
+                        <div class="col-md-6">
+                            <div class="text-center">
+                                <h3 class="text-uppercase d-block">OPCIONALES PARA LOS AHUMADORES</h3>
+                            </div>
+                            <ul>
+                                <li>Parrillas en acero inoxidable GRANDE</li>
+                                <li>Parrillas en acero inoxidable PEQUEÑA</li>
+                                <li>Mesa plegable</li>
+                                <li>Llanta de 8” con freno</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 text-center">
+                            
                         </div>
                     </div>
                 </div>
