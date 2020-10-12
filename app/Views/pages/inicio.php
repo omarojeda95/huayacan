@@ -55,93 +55,66 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
+                        <!-- header -->
                         <header class="header text-center mb-8 mb-md-10 mb-xl-14">
-                            <h2 class="mb-5 mb-md-7">
-                                <strong class="h6 font-weight-light mb-3 text-danger text-capitalize d-block fontRoboto">Productos</strong>
-                                <strong class="text-uppercase d-block">Todos nuestro producto</strong>
+                            <h2 class="mb-5">
+                                <strong class="text-uppercase d-block">Nuestros Productos</strong>
                             </h2>
                             <span class="bdrBtmImg d-block position-relative mx-auto"></span>
                         </header>
                     </div>
-                    <div class="col-12">
-                        <ul class="filterNav filter-button-group list-unstyled fwSemibold fontPoppins text-uppercase mb-5 mb-xl-7 d-flex flex-wrap justify-content-center">
-                            <li class="nav-item mb-2"><a class="filterBtn is-checked" data-filter="*" href="javascript:void(0);">todos</a></li>
-                            <li class="nav-item mb-2"><a class="filterBtn" data-filter=".smoker" href="javascript:void(0);">ahumadores</a></li>
-                            <li class="nav-item mb-2"><a class="filterBtn" data-filter=".table" href="javascript:void(0);">tablas</a></li>
-                            <li class="nav-item mb-2"><a class="filterBtn" data-filter=".termometro" href="javascript:void(0);">termometro</a></li>
-                            <li class="nav-item mb-2"><a class="filterBtn" data-filter=".otros" href="javascript:void(0);">adicionales</a></li>
+                    <div class="col-md-6">
+                        <div class="text-center">
+                            <h3 class="text-uppercase d-block">AHUMADOR REVERSE 1.50 X 0.50 X 1.70 MTS</h3>
+                        </div>
+                        <ul>
+                            <li>Modelo HU20</li>
+                            <li>Peso: 120 kg</li>
+                            <li>Dimensiones barril principal: 50x100cm</li>
+                            <li>Dimensiones quemador: 50x50cm</li>
+                            <li>Largo x ancho x alto: 150x50x170cm </li>
+                            <li>Pintura Anticalorica resistente hasta 300°C</li>
+                            <li>Accesorios incluidos:</li>
+                            <li>2 parrillas (extraíbles) para cocinado de alimentos, para un aprox de 200 a 250 personas, dependiendo del corte que uses.</li>
+                            <li>acceso para sondas</li>
+                            <li>Chimenea de 50 cm</li>
+                            <li>Baffle plate</li>
+                            <li>2 termómetro en grados celsius.</li>
+                            <li>Bandeja para líquidos y grasas.</li>
+                            <li>4 ruedas movibles de nylon con freno. </li>
+                            <li>Parrilla de acero corrugado de 12mm sobre la que realizar el fuego.</li>
+                            <li>Tiempo de vida útil, resistente al tiempo.</li>
                         </ul>
                     </div>
-                </div>
-            </div>
-            <div class="gridFilterWrap d-flex flex-wrap">
-                <div class="element-item overflow-hidden smoker">
-                    <div class="d-block imgHolder w-100">
-                        <a data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/products/ahumador-tradicional.jpg" class="img-fluid" alt="image description"></a>
-                        <div class="overbgBTxt position-absolute">
-                            <h3>
-                                <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">AHUMADOR TRADICIONAL 1.50</a></strong>
-                            </h3>
-                        </div>
+                    <div class="col-md-6 text-center">
+                        <img src="<?= base_url() ?>/public/assets/images/products/ahumador.jpg?>" alt="" width="50%">
                     </div>
-                </div>
-                <div class="element-item overflow-hidden smoker">
-                    <div class="d-block imgHolder w-100">
-                        <a data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/products/ahumador-reverse.jpg" class="img-fluid" alt="image description"></a>
-                        <div class="overbgBTxt position-absolute">
-                            <h3>
-                                <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">AHUMADOR REVERSE 1.50</a></strong>
-                            </h3>
+                    <div class="pt-5 row">
+                        <div class="col-md-6">
+                            <div class="text-center">
+                                <h3 class="text-uppercase d-block">AHUMADOR REVERSE 1.50 X 0.50 X 1.70 MTS</h3>
+                            </div>
+                            <ul>
+                                <li>Modelo HU20</li>
+                                <li>Peso: 120 kg</li>
+                                <li>Dimensiones barril principal: 50x100cm</li>
+                                <li>Dimensiones quemador: 50x50cm</li>
+                                <li>Largo x ancho x alto: 150x50x170cm </li>
+                                <li>Pintura Anticalorica resistente hasta 300°C</li>
+                                <li>Accesorios incluidos:</li>
+                                <li>2 parrillas (extraíbles) para cocinado de alimentos, para un aprox de 200 a 250 personas, dependiendo del corte que uses.</li>
+                                <li>acceso para sondas</li>
+                                <li>Chimenea de 50 cm</li>
+                                <li>Baffle plate</li>
+                                <li>2 termómetro en grados celsius.</li>
+                                <li>Bandeja para líquidos y grasas.</li>
+                                <li>4 ruedas movibles de nylon con freno. </li>
+                                <li>Parrilla de acero corrugado de 12mm sobre la que realizar el fuego.</li>
+                                <li>Tiempo de vida útil, resistente al tiempo.</li>
+                            </ul>
                         </div>
-                    </div>
-                </div>
-                <div class="element-item overflow-hidden smoker">
-                    <div class="d-block imgHolder w-100">
-                        <a data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/products/ahumador-tradicional.jpg" class="img-fluid" alt="image description"></a>
-                        <div class="overbgBTxt position-absolute">
-                            <h3>
-                                <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">AHUMADOR TRADICIONAL 0.75</a></strong>
-                            </h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="element-item overflow-hidden smoker">
-                    <div class="d-block imgHolder w-100">
-                        <a data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/products/ahumador-tradicional-2.jpg" class="img-fluid" alt="image description"></a>
-                        <div class="overbgBTxt position-absolute">
-                            <h3>
-                                <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">AHUMADOR REVERSE 0.75</a></strong>
-                            </h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="element-item overflow-hidden table" data-category="table">
-                    <div class="d-block imgHolder w-100">
-                        <a href="<?= base_url('/tabla-huayacan') ?>" data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/products/tabla.jpeg" class="img-fluid" alt="image description"></a>
-                        <div class="overbgBTxt position-absolute">
-                            <h3>
-                                <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">TABLA DE PICAR</a></strong>
-                            </h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="element-item overflow-hidden termometro">
-                    <div class="d-block imgHolder w-100">
-                        <a data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/products/termometro.jpg" class="img-fluid" alt="image description"></a>
-                        <div class="overbgBTxt position-absolute">
-                            <h3>
-                                <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">TERMOMETRO</a></strong>
-                            </h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="element-item overflow-hidden otros">
-                    <div class="d-block imgHolder w-100">
-                        <a data-caption="Mockup Can Design"><img src="<?= base_url() ?>/public/assets/images/products/mas.png" class="img-fluid" alt="image description"></a>
-                        <div class="overbgBTxt position-absolute">
-                            <h3>
-                                <strong class="fwSemibold px-3 d-inline-block h4 mb-0 d-block"><a href="javascript:void(0);">ADICIONALES</a></strong>
-                            </h3>
+                        <div class="col-md-6 text-center">
+                            <img src="<?= base_url() ?>/public/assets/images/products/ahumador.jpg?>" alt="" width="50%">
                         </div>
                     </div>
                 </div>
